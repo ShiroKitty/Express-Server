@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/ShiroKitty/Express-Server.git"
   },
-  "author": "",
+  "author": "Tj Liggett",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ShiroKitty/Express-Server/issues"
